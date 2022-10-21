@@ -1,0 +1,138 @@
+2020-02-19/16:50:16		GoodRaw directory deleted successfully!!!
+2020-02-19/16:50:17		Bad files moved to archive
+2020-02-19/16:50:17		Bad Raw Data Folder Deleted successfully!!
+2020-02-19/16:59:20		GoodRaw directory deleted successfully!!!
+2020-02-19/16:59:20		Bad files moved to archive
+2020-02-19/16:59:20		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/03:30:50		GoodRaw directory deleted successfully!!!
+2022-10-08/03:30:50		Bad files moved to archive
+2022-10-08/03:30:50		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:30:14		GoodRaw directory deleted successfully!!!
+2022-10-08/04:30:14		Bad files moved to archive
+2022-10-08/04:30:14		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:31:32		GoodRaw directory deleted successfully!!!
+2022-10-08/04:31:32		Bad files moved to archive
+2022-10-08/04:31:32		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:37:45		GoodRaw directory deleted successfully!!!
+2022-10-08/04:37:45		Bad files moved to archive
+2022-10-08/04:37:45		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:37:59		GoodRaw directory deleted successfully!!!
+2022-10-08/04:37:59		Bad files moved to archive
+2022-10-08/04:37:59		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:39:57		GoodRaw directory deleted successfully!!!
+2022-10-08/04:39:57		Bad files moved to archive
+2022-10-08/04:39:57		Bad Raw Data Folder Deleted successfully!!
+2022-10-08/04:54:59		GoodRaw directory deleted successfully!!!
+2022-10-08/04:54:59		Bad files moved to archive
+2022-10-08/04:54:59		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:20:14		GoodRaw directory deleted successfully!!!
+2022-10-10/02:20:14		Bad files moved to archive
+2022-10-10/02:20:14		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:28:31		GoodRaw directory deleted successfully!!!
+2022-10-10/02:28:31		Bad files moved to archive
+2022-10-10/02:28:31		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:30:33		GoodRaw directory deleted successfully!!!
+2022-10-10/02:30:33		Bad files moved to archive
+2022-10-10/02:30:33		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:36:05		GoodRaw directory deleted successfully!!!
+2022-10-10/02:36:05		Bad files moved to archive
+2022-10-10/02:36:05		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:52:46		GoodRaw directory deleted successfully!!!
+2022-10-10/02:52:46		Bad files moved to archive
+2022-10-10/02:52:46		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:58:06		GoodRaw directory deleted successfully!!!
+2022-10-10/02:58:06		Bad files moved to archive
+2022-10-10/02:58:06		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:58:35		GoodRaw directory deleted successfully!!!
+2022-10-10/02:58:35		Bad files moved to archive
+2022-10-10/02:58:35		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/02:58:57		GoodRaw directory deleted successfully!!!
+2022-10-10/02:58:57		Bad files moved to archive
+2022-10-10/02:58:57		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:03:09		GoodRaw directory deleted successfully!!!
+2022-10-10/03:03:09		Bad files moved to archive
+2022-10-10/03:03:09		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:05:36		GoodRaw directory deleted successfully!!!
+2022-10-10/03:05:36		Bad files moved to archive
+2022-10-10/03:05:36		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:06:19		GoodRaw directory deleted successfully!!!
+2022-10-10/03:06:19		Bad files moved to archive
+2022-10-10/03:06:19		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:10:22		GoodRaw directory deleted successfully!!!
+2022-10-10/03:10:22		Bad files moved to archive
+2022-10-10/03:10:22		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:12:00		GoodRaw directory deleted successfully!!!
+2022-10-10/03:12:00		Bad files moved to archive
+2022-10-10/03:12:00		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:18:46		GoodRaw directory deleted successfully!!!
+2022-10-10/03:18:46		Bad files moved to archive
+2022-10-10/03:18:46		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:18:53		GoodRaw directory deleted successfully!!!
+2022-10-10/03:18:53		Bad files moved to archive
+2022-10-10/03:18:53		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:39:22		GoodRaw directory deleted successfully!!!
+2022-10-10/03:39:22		Bad files moved to archive
+2022-10-10/03:39:22		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:44:56		GoodRaw directory deleted successfully!!!
+2022-10-10/03:44:56		Bad files moved to archive
+2022-10-10/03:44:56		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:49:35		GoodRaw directory deleted successfully!!!
+2022-10-10/03:49:35		Bad files moved to archive
+2022-10-10/03:49:35		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:50:02		GoodRaw directory deleted successfully!!!
+2022-10-10/03:50:02		Bad files moved to archive
+2022-10-10/03:50:02		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:50:23		GoodRaw directory deleted successfully!!!
+2022-10-10/03:50:23		Bad files moved to archive
+2022-10-10/03:50:23		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:52:51		GoodRaw directory deleted successfully!!!
+2022-10-10/03:52:51		Bad files moved to archive
+2022-10-10/03:52:51		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:54:04		GoodRaw directory deleted successfully!!!
+2022-10-10/03:54:04		Bad files moved to archive
+2022-10-10/03:54:04		Bad Raw Data Folder Deleted successfully!!
+2022-10-10/03:54:37		GoodRaw directory deleted successfully!!!
+2022-10-10/03:54:37		Bad files moved to archive
+2022-10-10/03:54:37		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:21:20		GoodRaw directory deleted successfully!!!
+2022-10-20/02:21:20		Bad files moved to archive
+2022-10-20/02:21:20		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:24:17		GoodRaw directory deleted successfully!!!
+2022-10-20/02:24:17		Bad files moved to archive
+2022-10-20/02:24:17		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:29:36		GoodRaw directory deleted successfully!!!
+2022-10-20/02:29:36		Bad files moved to archive
+2022-10-20/02:29:36		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:31:00		GoodRaw directory deleted successfully!!!
+2022-10-20/02:31:00		Bad files moved to archive
+2022-10-20/02:31:00		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:31:18		GoodRaw directory deleted successfully!!!
+2022-10-20/02:31:18		Bad files moved to archive
+2022-10-20/02:31:18		Bad Raw Data Folder Deleted successfully!!
+2022-10-20/02:32:17		GoodRaw directory deleted successfully!!!
+2022-10-20/02:32:17		Bad files moved to archive
+2022-10-20/02:32:17		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:44:26		GoodRaw directory deleted successfully!!!
+2022-10-22/01:44:26		Bad files moved to archive
+2022-10-22/01:44:26		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:44:42		GoodRaw directory deleted successfully!!!
+2022-10-22/01:44:42		Bad files moved to archive
+2022-10-22/01:44:42		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:45:34		GoodRaw directory deleted successfully!!!
+2022-10-22/01:45:34		Bad files moved to archive
+2022-10-22/01:45:34		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:45:42		GoodRaw directory deleted successfully!!!
+2022-10-22/01:45:42		Bad files moved to archive
+2022-10-22/01:45:42		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:45:53		GoodRaw directory deleted successfully!!!
+2022-10-22/01:45:53		Bad files moved to archive
+2022-10-22/01:45:53		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:46:01		GoodRaw directory deleted successfully!!!
+2022-10-22/01:46:01		Bad files moved to archive
+2022-10-22/01:46:01		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:48:44		GoodRaw directory deleted successfully!!!
+2022-10-22/01:48:44		Bad files moved to archive
+2022-10-22/01:48:44		Bad Raw Data Folder Deleted successfully!!
+2022-10-22/01:49:08		GoodRaw directory deleted successfully!!!
+2022-10-22/01:49:08		Bad files moved to archive
+2022-10-22/01:49:08		Bad Raw Data Folder Deleted successfully!!

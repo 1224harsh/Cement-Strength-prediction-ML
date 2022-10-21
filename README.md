@@ -5,6 +5,7 @@ Try the app - https://test-climate-visibility.herokuapp.com/
 To build a regression model to predict the concrete compressive strength based on the different features in the training data. 
 
 ## Architecture
+![Architectur 2](https://user-images.githubusercontent.com/52818519/197288239-da3c3d53-cb34-43eb-ae7b-6b0f57dcfce8.jpg)
 
 ## Data Description
 Given is the variable name, variable type, the measurement unit and a brief description. 
